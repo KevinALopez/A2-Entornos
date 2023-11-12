@@ -1,0 +1,13 @@
+{
+    "tamaños": [
+        { "nombre": "Grande", "precio": 15, "estaDisponible": true },
+        { "nombre": "Mediana", "precio": 10, "estaDisponible": true },
+        { "nombre": "Pequeña", "precio": 5, "estaDisponible": true }
+    ],
+    "ingredientes": [
+        { "nombre": "Salami", "precio": 1, "estaDisponible": true },
+        { "nombre": "Pepperoni", "precio": 1, "estaDisponible": true },
+        { "nombre": "Chile", "precio": 1, "estaDisponible": true },
+        { "nombre": "Piña", "precio": 1, "estaDisponible": true }
+    ]
+}
